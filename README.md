@@ -47,7 +47,7 @@
 | 🍰 **Sweet Crumb Bakery** | Responsive multi-page business website with dynamic menu filtering | [Live](https://majestic-bienenstitch-fb837f.netlify.app/) · [Code](https://github.com/vishaldhodi08/bakery-website) |
 | 📊 **Sorting Visualizer** | Interactive visualization of 5 sorting algorithms in vanilla JS | [Live](https://darling-sunflower-10b7fc.netlify.app/) · [Code](https://github.com/vishaldhodi08/sorting-visualizer) |
 
-🔗 More on my [portfolio website](https://splendid-puffpuff-0f4802.netlify.app/)
+🔗 More on my [portfolio website](https://vishaldhodi.in)
 
 ---
 
