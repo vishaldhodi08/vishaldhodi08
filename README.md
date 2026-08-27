@@ -42,7 +42,9 @@
 
 | Project | Description | Links |
 |---|---|---|
+| 📝 **Blog Platform** | Full MERN stack blog — React frontend + self-built Express/MongoDB REST API | [Live](https://stellar-starlight-3ad7d9.netlify.app/) · [Frontend](https://github.com/vishaldhodi08/blog-client) · [Backend](https://github.com/vishaldhodi08/blog-api) |
 | 🍽️ **Recipe Finder** | React + Router + Context API app with live recipe search and favorites | [Live](https://heartfelt-sherbet-af5074.netlify.app/) · [Code](https://github.com/vishaldhodi08/recipe-finder) |
+| 💰 **Expense Tracker** | React app for tracking expenses with running totals and persistent storage | [Live](https://expense-tracker-sage-three-31.vercel.app/) · [Code](https://github.com/vishaldhodi08/expense-tracker) |
 | ⚙️ **Task API** | REST API built with Express + MongoDB, full CRUD, deployed on Render | [Live](https://task-api-y85a.onrender.com/) · [Code](https://github.com/vishaldhodi08/task-api) |
 | 🍰 **Sweet Crumb Bakery** | Responsive multi-page business website with dynamic menu filtering | [Live](https://majestic-bienenstitch-fb837f.netlify.app/) · [Code](https://github.com/vishaldhodi08/bakery-website) |
 | 📊 **Sorting Visualizer** | Interactive visualization of 5 sorting algorithms in vanilla JS | [Live](https://darling-sunflower-10b7fc.netlify.app/) · [Code](https://github.com/vishaldhodi08/sorting-visualizer) |
